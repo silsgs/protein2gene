@@ -1,7 +1,7 @@
 
 # Protein2gene
 
-protein2gene is a Python code computational pipeline designed and implemented to process lists of proteins, mapping those genes of a model organism using BLAST. 
+***protein2gene*** is a Python code computational pipeline designed and implemented to process lists of proteins, mapping those genes of a model organism using BLAST. 
 The scripts were developed to create a pipeline to analyze any list of proteins. 
 
 ## Introduction
@@ -14,6 +14,12 @@ The limitations of
 
 The pipeline is composed by three independent but interelated Python scripts. 
 
-- Dependencies
-Python 2.7.x
-Biopython
+# Utility
+
+```python proteinfilter.py [samplefilname] [control_filename] [AIcutoff]```
+```python protein2gene.py [protein_filter_out_file]```
+```python genefilter.py [genefilter_out_filename] [threshold]```
+
+# Dependencies
+- Python 2.7.x
+- Biopython
