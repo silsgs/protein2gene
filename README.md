@@ -28,6 +28,13 @@ The pipeline is composed by three independent but interelated Python scripts.
 
 ```python genefilter.py [genefilter_out_filename] [threshold]```
 
+## About the program...
+Simplified workflows of the algorithm implemented in each script:
+
+![Proteinfilter](proteinfilter.png)
+![protein2gene](protein2gene.png)
+![Genefilter](genefilter.png)
+
 # Dependencies
 - Python 2.7.x
 - Biopython
