@@ -31,8 +31,13 @@ The pipeline is composed by three independent but interelated Python scripts.
 ## About the program...
 Simplified workflows of the algorithm implemented in each script:
 
+- Proteinfilter (script I)
 ![Proteinfilter](proteinfilter.png)
+
+- ***protein2gene*** (script II)
 ![protein2gene](protein2gene.png)
+
+- Genefilter (script III)
 ![Genefilter](genefilter.png)
 
 # Dependencies
