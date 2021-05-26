@@ -16,8 +16,16 @@ The pipeline is composed by three independent but interelated Python scripts.
 
 # Utility
 
+1. proteinfilter.py
+
 ```python proteinfilter.py [samplefilname] [control_filename] [AIcutoff]```
+
+2. protein2gene.py
+
 ```python protein2gene.py [protein_filter_out_file]```
+
+3. genefilter.py
+
 ```python genefilter.py [genefilter_out_filename] [threshold]```
 
 # Dependencies
