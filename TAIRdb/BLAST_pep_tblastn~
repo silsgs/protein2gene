@@ -1,0 +1,14 @@
+TBLASTN 2.2.25 [Feb-01-2011]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= gi|120661|sp|P09043.1|G3PA_TOBAC RecName:
+Full=Glyceraldehyde-3-phosphate dehydrogenase A, chloroplastic;
+AltName: Full=NADP-dependent glyceraldehydephosphate dehydrogenase
+subunit A; Flags: Precursor
+         (392 letters)
+

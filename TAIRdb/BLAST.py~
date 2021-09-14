@@ -1,0 +1,7 @@
+import os
+
+BLAST = os.system('blastall -p blastp -d TAIR10_pep_20101214_updated -i testlist_fasta.txt -e 0.0 > BLAST_testlist.txt')
+
+
+
+# BLAST = os.system "blastall -p blastp -d %i -i %i > %i" % ('TAIR10_pep_20101214_updated', 'testlist_fasta.txt', 'BLAST_testlist.txt')
