@@ -32,5 +32,5 @@ Simplified workflows of the algorithm implemented in each script:
 ![Genefilter](genefilter.png)
 
 # Dependencies
-- Python 2.7.x
+- Python 3.x
 - Biopython
